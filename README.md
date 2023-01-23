@@ -5,11 +5,11 @@ I decided to use **BLM** as the parameter to get an overlook of the topic and se
 
 #### iii.
 As expected, the word clouds share a set of the same phrases that are most common in the discussion of BLM no matter the geographical location (BLM, Riots, Protests, etc.), while words that are less common start to show a unique set of diversity in each word cloud. <br>
-In the word cloud of threads in Manhattan, “Boomer” stands out to be a significant term while it doesn’t seem to appear in the other word clouds. The terms in the Manhattan word clouds overall present a mild temperament and objective tone to the subject. 
+In the word cloud of threads in Manhattan, **“Boomer”** stands out to be a significant term while it doesn’t seem to appear in the other word clouds. The terms in the Manhattan word clouds overall present a mild temperament and objective tone to the subject. 
 
 ![img](img/wordcloud-3.png)
 
-While in the Dallas word cloud, political terms such as “Democratic” and “Party” are brought up more than in other word clouds, and more heated words are involved (Thugs, Freaks, Gay). Other topics such as LGBT and politics are also frequently touched on in the discussion of BLM in Dallas.
+While in the Dallas word cloud, political terms such as **“Democratic”** and **“Party”** are brought up more than in other word clouds, and more heated words are involved (Thugs, Freaks, Gay). Other topics such as LGBT and politics are also frequently touched on in the discussion of BLM in Dallas.
 
 ![img](img/wordcloud-2.png)
 
