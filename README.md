@@ -4,12 +4,12 @@
 I decided to use **BLM** as the parameter to get an overlook of the topic and see what people are discussing about the aftermath of the movement that has erupted during mid-2020. The four locations I chose are _Seattle WA_, _Dallas TX_, _Manhattan_, and _Los Angeles CA_. These four cities each represents a crowd of unique population that differs vastly in culture and geography from the others. To find out if this difference also shows in the twitter threads of a rather political topic such as BLM, and whether the threads reflect the characteristics of each city, I collected the data to make some comparisons. 
 
 #### iii.
-As expected, the word clouds share a set of the same phrases that are most common in the discussion of BLM no matter the geographical location (BLM, Riots, Protests, etc.), while words that are less common start to show a unique set of diversity in each word cloud. <br>
-In the word cloud of threads in Manhattan, **“Boomer”** stands out to be a significant term while it doesn’t seem to appear in the other word clouds. The terms in the Manhattan word clouds overall present a mild temperament and objective tone to the subject. 
+As expected, the word clouds share a set of the same phrases that are most common in the discussion of BLM no matter the geographical location (Riots, Protests, Black, etc.), while words that are less common start to show a unique set of diversity in each word cloud. <br>
+In the word cloud of threads in Manhattan, **“Boomer”** stands out to be a significant term while it doesn’t seem to appear in the other word clouds. In addition to that, Brooklyn Congressman Hakeem Jeffries' twitter account is mentioned frequently in the threads. The terms in the Manhattan word clouds overall present a mild tone to the subject. 
 
 ![img](img/wordcloud-3.png)
 
-While in the Dallas word cloud, political terms such as **“Democratic”** and **“Party”** are brought up more than in other word clouds, and more heated words are involved (Thugs, Freaks, Gay). Other topics such as LGBT and politics are also frequently touched on in the discussion of BLM in Dallas.
+While in the Dallas word cloud, the word **"Riot"** stands out the most, almost looks like it's introducing the overview of the local twitter thread. Political terms such as **“Democratic”** and **“Party”** are brought up more than in other word clouds, and more heated words are involved (Thugs, Freaks, Kill). Other topics such as LGBT are also frequently touched on in the discussion of BLM in the twitter thread from Dallas.
 
 ![img](img/wordcloud-2.png)
 
@@ -30,7 +30,7 @@ One of the things that stood out to me is that the word clouds have the phrase *
 
 
 #### Download link to the result spreadsheets of collected data
-- [twsearch-result-1.csv](https://drive.google.com/file/d/1-8TR2NEXMOTupWYe0GHvv8XuqIJmouxq/view?usp=sharing)
-- [twsearch-result-2.csv](https://drive.google.com/file/d/1-CdPRI0p-PZFu1BOYHKkeibjJi-pXlTh/view?usp=sharing)
-- [twsearch-result-3.csv](https://drive.google.com/file/d/1-DGV66n2aEdPH53Gv2j_uo54EhBDfZZs/view?usp=sharing)
-- [twsearch-result-4.csv](https://drive.google.com/file/d/1-FPJuQ_fXCWwX-xNtTPt7PEmcbHhaRa_/view?usp=sharing)
+- [twsearch-result-1.csv (Seattle, WA)](https://drive.google.com/file/d/1-8TR2NEXMOTupWYe0GHvv8XuqIJmouxq/view?usp=sharing)
+- [twsearch-result-2.csv (Dallas, TX)](https://drive.google.com/file/d/1-CdPRI0p-PZFu1BOYHKkeibjJi-pXlTh/view?usp=sharing)
+- [twsearch-result-3.csv (Manhattan, NY)](https://drive.google.com/file/d/1-DGV66n2aEdPH53Gv2j_uo54EhBDfZZs/view?usp=sharing)
+- [twsearch-result-4.csv (Los Angeles, CA)](https://drive.google.com/file/d/1-FPJuQ_fXCWwX-xNtTPt7PEmcbHhaRa_/view?usp=sharing)
